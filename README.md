@@ -1,6 +1,6 @@
 <div>
   <h1 class="justify-content-end" align="center" small>Full Stack Dev <span></span></h3>
-  <img src="" width="80" height="80" alt="" />
+  <img src="/Assets/bandeira_brasileira_pintada.gif" width="80" height="50" alt="" />
 </div>
 
 
