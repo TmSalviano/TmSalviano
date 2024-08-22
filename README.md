@@ -46,12 +46,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
+## Github Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TmSalviano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <hr />
 <details>
   <summary>
-    <h2><i>Footer</i></h2>
+    <h2><strong>Contact Me</strong></h2>
   </summary>
-   *Discord* - vaxry <br/>
-   *Github* - bro... are you serious? <br/>
-   *Mail* - tiagomsalviano@outlook.com <br/>
+  <p><strong>Discord</strong> - Work In Progress <br/></p>
+  <p><strong>Mail</strong> - tiagomsalviano@outlook.com <br/></p>
+  <p><strong>Github</strong> - bro... are you serious? <br/></p>
 </details>
+
