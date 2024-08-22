@@ -1,5 +1,3 @@
-  <h1 class="justify-content-end" align="center" small>Full Stack Dev <span></span></h3>
-
 ## About Me
 
 <table width="100%" height="100%">
