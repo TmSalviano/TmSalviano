@@ -1,11 +1,23 @@
-<div>
   <h1 class="justify-content-end" align="center" small>Full Stack Dev <span></span></h3>
-  <img src="/Assets/bandeira_brasileira_pintada.gif" width="80" height="50" alt="" />
-</div>
 
+## About Me
 
-- Currently - Email: **tiagomsalviano@outlook.com**Learning **ASP.NET**
-- Email: **tiagomsalviano@outlook.com**
+<table width="100%" height="100%">
+  <tr>
+    <td>
+      <img src="/Assets/bandeira_brasileira_pintada.gif" width="160" height="100" alt="" />
+    </td>
+    <td>
+      <blockquote>
+        <p>
+          "Não se esqueça de que <strong>tudo é uma coisa só</strong>. Não se esqueça da linguagem dos sinais. E, sobretudo, não se esqueça de ir até o fim de sua Lenda Pessoal." 
+        </p>
+        <footer>— Paulo Coelho, O Alquimista.</footer>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
 
 ## Languages And Tools
 <p align="left"> 
@@ -34,3 +46,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+<hr />
+<details>
+  <summary>
+    <h2><i>Footer</i></h2>
+  </summary>
+   *Discord* - vaxry <br/>
+   *Github* - bro... are you serious? <br/>
+   *Mail* - tiagomsalviano@outlook.com <br/>
+</details>
