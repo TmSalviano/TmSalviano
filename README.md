@@ -14,6 +14,21 @@
       </blockquote>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="160" height="100"/> 
+      </a> 
+    </td>
+    <td>
+      <blockquote>
+        <p>
+          "I use Arch by the way. Did you know I have arch installed in this machine?" 
+        </p>
+        <footer>— Every arch user ever.</footer>
+      </blockquote>
+    </td>
+  </tr>
 </table>
 
 
@@ -96,7 +111,7 @@
   <summary>
     <h2><strong>Contact Me</strong></h2>
   </summary>
-  <p><strong>Discord</strong> - Work In Progress <br/></p>
+  <p><strong>Discord</strong> - tmsalviano <br/></p>
   <p><strong>Mail</strong> - tiagomsalviano@outlook.com <br/></p>
   <p><strong>Github</strong> - bro... are you serious? <br/></p>
 </details>
