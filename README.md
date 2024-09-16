@@ -1,3 +1,4 @@
+<small>Since I've started to use Github way after I began to program. My prevously complete projects will be posted here as repos with one commit only.<small/>
 ## About Me
 
 <table width="100%" height="100%">
