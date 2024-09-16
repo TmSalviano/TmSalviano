@@ -1,4 +1,4 @@
-<small>Since I've started to use Github way after I began to program. My previously completed projects will be posted here as repos, so don't be surprised by full projects with no commits, etc.<small/>
+<small>Since I've started to use Github way after I began to program, my previously completed projects will be posted here as repos. Therefore don't be surprised by full projects with no commits, etc.<small/>
 ## About Me
 
 <table width="100%" height="100%">
