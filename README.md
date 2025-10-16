@@ -4,7 +4,7 @@
   <tr>
     <td>
       <img src="/Assets/bandeira_brasileira_pintada.gif" width="160" height="100" alt="" />
-    </td>
+    </td>    print(line)
     <td>
       <blockquote>
         <p>
@@ -62,13 +62,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-</p>
-
-### Frameworks
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
 </p>
 
 ### Databases
