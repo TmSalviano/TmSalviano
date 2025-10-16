@@ -4,7 +4,7 @@
   <tr>
     <td>
       <img src="/Assets/bandeira_brasileira_pintada.gif" width="160" height="100" alt="" />
-    </td>    print(line)
+    </td>    
     <td>
       <blockquote>
         <p>
